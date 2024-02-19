@@ -1,0 +1,19 @@
+{
+    "en": {
+        "Flipkart.common.pagination.of": "of",
+        "Flipkart.nav.label": "7776",
+        "Flipkart.nav.description": "7776 module",
+        "Flipkart.title": "7776",
+        "Flipkart.members.title": "Members",
+        "Flipkart.firstName": "First Name",
+        "Flipkart.lastName": "Last Name",
+        "Flipkart.address": "Address",
+        "Flipkart.description": "Description",
+        "Flipkart.pagination.members": "members",
+        "Flipkart.btn.add_members": "Add Members",
+        "Flipkart.btn.remove_members": "Remove Members",
+        "Flipkart.selectmembers.title": "Add members",
+        "Flipkart.selectmembers.btn.select": "Select",
+        "Flipkart.selectmembers.btn.cancel": "Cancel"
+    }
+}

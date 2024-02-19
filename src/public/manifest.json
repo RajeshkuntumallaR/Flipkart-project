@@ -1,0 +1,14 @@
+{
+    "urn": "vmware:vcloud:Flipkart",
+    "name": "Flipkart.Flipkart",
+    "containerVersion": "10.0.0",
+    "version": "VERSION_PLACEHOLDER",
+    "scope": ["tenant","service-provider"],
+    "permissions": [],
+    "description": "",
+    "vendor": "VMware",
+    "license": "Copyright (C) VMware 2019.  All rights reserved.",
+    "link": "http://www.vmware.com/support",
+    "module": "7776Module",
+    "route": "Flipkart"
+}
